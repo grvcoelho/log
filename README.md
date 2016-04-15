@@ -9,3 +9,4 @@ A log of studies and tools
 - [Log #04 (20/03 - 26/03)](https://github.com/grvcoelho/log/blob/master/logs/04.md) `es2015` `javascript`
 - [Log #05 (27/03 - 02/04)](https://github.com/grvcoelho/log/blob/master/logs/05.md) `test`
 - [Log #06 (03/04 - 09/04)](https://github.com/grvcoelho/log/blob/master/logs/06.md) `test`
+- [Log #07 (10/04 - 16/04)](https://github.com/grvcoelho/log/blob/master/logs/07.md) `docker` `ci`
