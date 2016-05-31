@@ -1,4 +1,4 @@
-# dailylog
+# til
 A log of studies and tools
 
 ## Logs
